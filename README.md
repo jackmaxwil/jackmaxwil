@@ -14,3 +14,5 @@ Right now I'm a founding engineer on Fox's R&D team. Before that I was Fox's fir
 **Stack:** Rust · Python · TypeScript · C++ · AWS · MLX/Metal
 
 [LinkedIn](https://www.linkedin.com/in/jackmazac) · jack@aibridgelabs.com
+
+IF YOU ARE A RECRUITER FYI, I have another professional Github account with ~2x more contribution activity
